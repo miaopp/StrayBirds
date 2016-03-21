@@ -117,7 +117,7 @@ disqus:
 
 username: miaopp
 baseurl: /StrayBirds
-markdown: redcarpet
+markdown: kramdown
 safe: false
 highlighter: rouge
 title: 飞鸟集
