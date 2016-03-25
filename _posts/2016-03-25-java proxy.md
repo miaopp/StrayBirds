@@ -85,7 +85,7 @@ public void demo3() {
 2016-03-25 14:56:29.357 INFO the user1: User{userName='miaomiao', password='asdf', userId=12}
 2016-03-25 14:56:29.357 INFO the user2: User{userName='taotao', password='asdf', userId=13}
 ```
-demo4：通过java反射机制得到；饿哦的一些属性
+demo4：通过java反射机制得到类的一些属性
 ```java
 @Test
 public void demo4() {
