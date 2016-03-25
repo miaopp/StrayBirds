@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Java 中的并发
+title: Java反射机制
 category: 技术
 comments: true
 ---
